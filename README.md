@@ -1,6 +1,6 @@
-# flutter_application_1
+# flutterApp
 
-A new Flutter project.
+firt basic form for user signing up with an alert dialog showing up after clicking a button.
 
 ## Getting Started
 
